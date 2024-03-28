@@ -15,7 +15,7 @@ Computer Science And Engineering-UnderGraduate
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c.png"/>    
-<img height="50" width="50" src="https://www.freeiconspng.com/img/28389"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img height="50" width="50" src="https://freeiconspng.com/img/28389"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
 
 ### IDE and Tools I Use
@@ -23,7 +23,7 @@ Computer Science And Engineering-UnderGraduate
 
 
 ### 💻 Workspace Spec
-<img  src="https://icons8.com/icon/tu2Vq6i3mpRn/amd-ryzen"/> <img height="30" src="https://www.logo.wine/logo/Ryzen"/>  
+<img height="50" width="50" src="https://icons8.com/icons/set/amd-ryzen"/>  <img height="30" src="https://www.logo.wine/logo/Ryzen"/>  
 
 ![Siva27012's Stats](https://github-readme-stats.vercel.app/api?username=Siva27012&theme=dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siva27012&theme=dark)](https://git.io/streak-stats)
