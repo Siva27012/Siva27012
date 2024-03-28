@@ -28,4 +28,4 @@ Computer Science And Engineering-UnderGraduate
 ![Siva27012's Stats](https://github-readme-stats.vercel.app/api?username=Siva27012&theme=dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siva27012&theme=dark)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siva270128&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siva27012&bg_color=050505&color=00ffbf&line=00c26e&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
