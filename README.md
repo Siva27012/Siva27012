@@ -23,7 +23,7 @@ Computer Science And Engineering-UnderGraduate
 
 
 ### 💻 Workspace Spec
-<img  src="https://in.images.search.yahoo.com/images/view;_ylt=Awr1RXWzHwVmkxEIyyu9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2U0ZDY2YzVjYzExNWExZTg1YjhhOTA2ZjdiZDhjOTM5BGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dryzen%2B5%2Bhexa%2Blogo%26fr%3Dmcafee%26tab%3Dorganic%26ri%3D3&w=920&h=500&imgurl=allvectorlogo.com%2Fimg%2F2017%2F07%2Famd-ryzen-5-logo.png&rurl=http%3A%2F%2Fallvectorlogo.com%2Famd-ryzen-5-logo%2F&size=+8.2KB&p=ryzen+5+hexa+logo&oid=e4d66c5cc115a1e85b8a906f7bd8c939&fr2=&fr=mcafee&tt=AMD+Ryzen+5+Logo+Download+-+AI+-+All+Vector+Logo&b=0&ni=160&no=3&ts=&tab=organic&sigr=zIa3A815tsJ0&sigb=YGdCk3gf1THz&sigi=q5bdWWtAqmCV&sigt=jcfByTKZOD9I&.crumb=FN.3mA91dHB&fr=mcafee"/> <img height="30" src="https://www.logo.wine/logo/Ryzen"/>  
+<img  src="https://icons8.com/icon/tu2Vq6i3mpRn/amd-ryzen"/> <img height="30" src="https://www.logo.wine/logo/Ryzen"/>  
 
 ![Siva27012's Stats](https://github-readme-stats.vercel.app/api?username=Siva27012&theme=dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siva27012&theme=dark)](https://git.io/streak-stats)
